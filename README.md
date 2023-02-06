@@ -1,4 +1,4 @@
-# Pohlig-Hellman-Algorithm
+# Pohlig-Hellman Algorithm
 The Pohlig-Hellman Algorithm is used to compute discrete logarithms in finite Abelian groups. In this repository, the algorithm was implemented in C++ for the group of units modulo a prime number p. In other words, we are efficiently solving the problem g<sup>x</sup> = h (mod p) for large values of g, h, and p.
 
 ## Purpose
